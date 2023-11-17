@@ -1,11 +1,14 @@
 <p align="center">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Hissinger
+</p>
 =======================================================================================================================================
-
+<p align="center">
 Epitech Student
+</p>
 ---------------
-
+<p align="center">
 I'm currently in my third year at Epitech Technology in Lyon, dedicated to pursuing my enthusiasm for technology and software development. I find pleasure in delving into innovative tech stacks and creating projects. I possess a rapid learning ability, enabling me to swiftly grasp new technologies and programming languages.
+</p>
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [lucas.hissinger@epitech.eu](mailto:lucas.hissinger@epitech.eu)
