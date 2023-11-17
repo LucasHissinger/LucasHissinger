@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Hissinger
+=======================================================================================================================================
 
 Epitech Student
+---------------
 
 I'm currently in my third year at Epitech Technology in Lyon, dedicated to pursuing my enthusiasm for technology and software development. I find pleasure in delving into innovative tech stacks and creating projects. I possess a rapid learning ability, enabling me to swiftly grasp new technologies and programming languages.
 
@@ -37,10 +39,3 @@ I'm currently in my third year at Epitech Technology in Lyon, dedicated to pursu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/LucasHissinger" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucas-hissinger/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/LucasHissinger/Flappy_bird_IA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasHissinger&repo=Flappy_bird_IA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LucasHissinger/Twitter_bot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasHissinger&repo=Twitter_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
-
-<div width="100%" align="center"><a href="https://github.com/LucasHissinger/my_calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasHissinger&repo=my_calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LucasHissinger/Hanged_game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasHissinger&repo=Hanged_game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
