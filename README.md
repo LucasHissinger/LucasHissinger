@@ -7,8 +7,8 @@ I'm currently in my third year at Epitech Technology in Lyon, dedicated to pursu
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [lucas.hissinger@epitech.eu](mailto:lucas.hissinger@epitech.eu)
-* 🚀  I'm currently working on [improving my pentesting skills](http://.)
-* 🧠  I'm learning metasploit
+* 🚀  I'm currently working on [improving my pentesting skills on htb](http://.)
+* 🧠  I'm learning security concepts !
 
 ### Skills
 
