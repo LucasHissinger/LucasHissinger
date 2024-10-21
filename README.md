@@ -12,9 +12,9 @@ I also have good skills and would like to specialize in the field of cybersecuri
 Teamwork and responsibilities boost my performance.
 
 * 🌍  I'm based in Lyon
-* 📍  Currently in Canterbury
+* 📍  Currently in University of KENT, Canterbury
 * ✉️  You can contact me at [lucas.hissinger@epitech.eu](mailto:lucas.hissinger@epitech.eu)
-* 🚀  I'm currently working on [improving my pentesting skills on htb](http://.)
+* 🚀  I'm currently working on [Hémicycle, my EIP](http://.)
 * 🧠  I'm learning security concepts !
 
 ### Skills
