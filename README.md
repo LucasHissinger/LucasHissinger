@@ -6,9 +6,10 @@ Epitech Student
 4th year student at EPITECH Lyon.
 
 I am currently on exchange for this 4th year in the "School of Computing" at the Kent University campus in the city of Canterbury in the United Kingdom, and preparing for the specialized cybersecurity program recognized by the National Cyber ​​Security Center
-Passionate about all areas of IT development, I have good technique in different languages ​​such as C, C++, Python or different Web languages ​​such as React, TypeScript and Javascript.
+Passionate about all areas of IT development, I have good technique in different languages ​​such as C, C++, Python or different Web languages ​​such as React Framework, TypeScript and Javascript.
 
-I also have good skills and would like to specialize in the field of cybersecurity
+I also have good skills and theoric knowledge in cybersecurity and would like to specialize in this field.
+
 Teamwork and responsibilities boost my performance.
 
 * 🌍  I'm based in Lyon
